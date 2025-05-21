@@ -5,13 +5,6 @@ This project is part of the **Frontend Development Test** for Sekawan Media.
 
 ---
 
-## 📸 Preview
-
-> 📷 *Insert screenshot here*  
-> (You can upload a screenshot and add a link here for visual reference.)
-
----
-
 ## ✨ How to Started
 
 ### 1. Install VS Code
